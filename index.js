@@ -22,4 +22,6 @@ function decrement(n){
   return n--;
 }
 
-function
+function  makeInt(n) {
+  
+}
